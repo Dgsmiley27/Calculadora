@@ -1,4 +1,4 @@
 # Calculadora
-Calculadora feita em python
+Calculadora feita em varias lang
 Criador: Douglas da Silva
 Versão 0.1
