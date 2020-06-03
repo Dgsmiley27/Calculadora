@@ -1,4 +1,4 @@
 # Calculadora
 Calculadora feita em varias lang
-Criador: Douglas da Silva
+Criador: Douglas Vianna
 Versão 0.1
