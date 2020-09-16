@@ -1,12 +1,12 @@
 from math import sqrt
-print('####################################################')
-print('#      bem vindo a calculadora feita em python     #')
-print('#    multiplicação = 1                             #')
-print('#    subtração = 2                                 #')
-print('#    soma = 3                                      #')
-print('#    divisão = 4                                   #')
-print('#    raiz = 5                                      #')
-print('####################################################')
+print('''####################################################
+#      bem vindo a calculadora feita em python     #
+#    multiplicação = 1                             #
+#    subtração = 2                                 #
+#    soma = 3                                      #
+#    divisão = 4                                   #
+#    raiz = 5                                      #
+####################################################''')
 calc = input("Escolha a operação = ")
 #Multiplicação
 if calc == '1':
